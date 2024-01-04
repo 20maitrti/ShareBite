@@ -1,21 +1,21 @@
-# Food Donation Management System
+# ShareBite
 
 ShareBite is a platform that empowers food donors and volunteers to work together, ensuring that surplus food reaches those who need it most.
 
 ## How ShareBite Looks like
 
 Homepage
-<img src="/assets/images/Sample1.png.png" width="70%">
-<img src="/assets/images/Sample2.png.png" width="70%">
+![Alt text](Sample1.png)
+![Alt text](Sample2.png)
 
 Admin Dashboard
-<img src="/assets/images/Sample3.png.png" width="70%">
+![Alt text](Sample3.png)
 
 Agent/Volunteer Dashboard
-<img src="/assets/images/Sample4.png.png" width="70%">
+![Alt text](Sample4.png)
 
 Donor Dashboard
-<img src="/assets/images/Sample5.png.png" width="70%">
+![Alt text](sample5.png)
 
 ## Table of Contents
 
