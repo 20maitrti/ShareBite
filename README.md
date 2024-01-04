@@ -105,12 +105,13 @@ For running the application:
    ```js
    MONGO_URI = yourmongouri;
    ```
-3. Run the web application
+3. Create img1 folder under assets folder and add Author Picture
+4. Run the web application
    ```sh
    npm start
    ```
-4. Open http://localhost:5000
-5. You need to first signup and then login to run the application.
+5. Open http://localhost:5000
+6. You need to first signup and then login to run the application.
 
 ## Authors
 
