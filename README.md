@@ -1,9 +1,21 @@
 # Food Donation Management System
 
-A web application which is useful for management of food donation and collection activities.  
-[View Demo](https://food-aid.onrender.com/)
+ShareBite is a platform that empowers food donors and volunteers to work together, ensuring that surplus food reaches those who need it most.
 
-<img src="https://user-images.githubusercontent.com/86913048/226953269-e6ae0484-ab78-4c77-b199-aef793502d8d.png" width="70%">
+## How ShareBite Looks like
+
+Homepage
+<img src="/assets/images/Sample1.png.png" width="70%">
+<img src="/assets/images/Sample2.png.png" width="70%">
+
+Admin Dashboard
+<img src="/assets/images/Sample3.png.png" width="70%">
+
+Agent/Volunteer Dashboard
+<img src="/assets/images/Sample4.png.png" width="70%">
+
+Donor Dashboard
+<img src="/assets/images/Sample5.png.png" width="70%">
 
 ## Table of Contents
 
@@ -100,25 +112,17 @@ For running the application:
 4. Open http://localhost:5000
 5. You need to first signup and then login to run the application.
 
-## Useful Links
+## Authors
 
-- Demo: https://food-aid-aayush.herokuapp.com/
-- Github Repo: https://github.com/aayush301/Food-donation-management-system
-- Nodejs download: https://nodejs.org/
-- VS Code download: https://code.visualstudio.com/
-- Tutorials: https://www.w3schools.com/
-- npmjs docs: https://docs.npmjs.com/
-- Expressjs docs: https://expressjs.com/
-- Bootstrap docs: https://getbootstrap.com/docs/5.1/getting-started/introduction/
-- Mongoosejs docs: https://mongoosejs.com/docs/index.html
-- Mongodb atlas: https://www.mongodb.com/cloud/atlas/register
-- Mongodb docs: https://docs.mongodb.com/manual/introduction/
-- Nodemailer docs: https://nodemailer.com/
-- Github docs: https://docs.github.com/en/get-started/quickstart/hello-world
-- Git cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
-- VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+-Aakash(https://github.com/Aakashdeep3708) & Maitri( https://github.com/20maitrti)
 
-## Contact
+## Food Donation Management System
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+This project is a fork of the https://github.com/aayush301/Food-donation-management-system created by https://github.com/aayush301. All credit for the original work and inspiration goes to them. -[View Demo](https://food-aid.onrender.com/)
+
+## Attribution
+
+If you find this project useful, consider giving credit to the original author and project by including the following information:
+
+- Original Project: https://github.com/aayush301/Food-donation-management-system
+- Original Author: https://github.com/aayush301
