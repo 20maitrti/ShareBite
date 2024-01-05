@@ -8,6 +8,8 @@ Homepage
 ![Alt text](Sample1.png)
 ![Alt text](Sample2.png)
 
+About Us
+![Alt text](Sample6.png)
 Admin Dashboard
 ![Alt text](Sample3.png)
 
