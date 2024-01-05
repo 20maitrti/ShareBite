@@ -1,5 +1,5 @@
 ## Environment variable file
-.env
+*.env
 -file containing MONGO_URI
 
 ##Images folder under assets
@@ -7,4 +7,4 @@
 /assets/Img1
 
 ## Node Modules
-/node_modules
+node_modules/
