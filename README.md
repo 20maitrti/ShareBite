@@ -119,13 +119,3 @@ For running the application:
 
 -Aakash(https://github.com/Aakashdeep3708) & Maitri( https://github.com/20maitrti)
 
-## Food Donation Management System
-
-This project is a fork of the https://github.com/aayush301/Food-donation-management-system created by https://github.com/aayush301. All credit for the original work and inspiration goes to them. -[View Demo](https://food-aid.onrender.com/)
-
-## Attribution
-
-If you find this project useful, consider giving credit to the original author and project by including the following information:
-
-- Original Project: https://github.com/aayush301/Food-donation-management-system
-- Original Author: https://github.com/aayush301
