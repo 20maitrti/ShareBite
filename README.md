@@ -117,5 +117,5 @@ For running the application:
 
 ## Authors
 
--Aakash(https://github.com/Aakashdeep3708) & Maitri( https://github.com/20maitrti)
+Aakash(https://github.com/Aakashdeep3708) & Maitri( https://github.com/20maitrti)
 
